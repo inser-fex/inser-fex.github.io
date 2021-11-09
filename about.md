@@ -6,4 +6,6 @@ permalink: /about/
 
 # Acerca de mí
 
-Puedes visitar mi [perfil en GitHub](https://github.com/drancope/drancope)
+soy umano
+
+Puedes visitar mi [perfil en GitHub](https://github.com/inser-fex/inser-fex)
