@@ -5,4 +5,8 @@ date:   2021-11-25 12:23:00 +0200
 categories: Novedades
 author: Sergio
 ---
-Sergio Franco ha realizado la tarea con éxito
+Paneles y tarjetas de *trello*: Es un metodo de trabajo organizado y seguro en el que puedes meter a cuantos participantes se quiera, lo malo, es que cualquiera puede mover las cosas de sitio.
+
+Las webs personalizadas en github:esta es una pagina web, muy chula y bonica. He aprendido ha hacerla asi.
+
+Bucle for: he aprendido a usar el bucle correctamente.

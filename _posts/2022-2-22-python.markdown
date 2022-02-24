@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "ATOM"
+date:   2021-11-25 12:23:00 +0200
+categories: Novedades
+author: Sergio
+---
+<u>ATOM.</u>
+
+**Atom** es un editor de código fuente de código abierto para **macOS**, **Linux**, y **Windows1**​ con soporte para múltiples plug-in escritos en Node.js y control de versiones Git integrado, desarrollado por **GitHub**. **Atom** es una aplicación de escritorio construida utilizando tecnologías web.2​
+
+La mayor parte de los paquetes tienen licencias de software libre y está desarrollados y mantenidos por la comunidad de usuarios.3​ **Atom** está basado en **Electron** (Anteriormente conocido como **Atom Shell**), Un framework que permite crear aplicaciones de escritorio multiplataforma usando **Chromium** y **Node.js.4​5​6**​ Está escrito en **CoffeeScript** y **Less.7​** También puede ser utilizado como un entorno de desarrollo integrado (IDE).8​9​10​ **Atom** liberó su beta en la versión 1.0, el 25 de junio de 2015.11​ 
